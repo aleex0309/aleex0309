@@ -2,7 +2,7 @@
 <h3 align="center">This is my GitHub</h3>
 
 - 👀 I’m interested in Computer Science and AI
-- 🌱 I’m currently learning at UdL
+- 🌱 I’m currently studying at UdL
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

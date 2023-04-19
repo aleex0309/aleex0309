@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Alexandru Stoia</h1>
 <h3 align="center">This is my GitHub</h3>
 
-- 👀 Interested in Computer Science and AI
-- 📚 Currently studying Computer engineering at UdL 💻
-- 💡 Always thinking about new Ideas
-- 🏋️‍♂️ GymBRO
+- 👀 Interested in Computer Science and AI.
+- 📚 Currently studying Computer engineering at UdL. 💻
+- 💡 Always thinking about new Ideas.
+- 🏋️‍♂️ Passionate about GYM and fitness.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

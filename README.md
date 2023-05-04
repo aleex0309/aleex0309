@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alexandru Stoia</h1>
-<h3 align="center">This is my GitHub</h3>
+<h3 align="center">Welcome to my GitHub</h3>
 
 - 👀 Interested in Computer Science and AI.
 - 📚 Currently studying Computer engineering at UdL. 💻

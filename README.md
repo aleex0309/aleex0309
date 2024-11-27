@@ -3,7 +3,7 @@
 
 <h3 align="left">About Me:</h3>
 <ul>
-  <li>🎓 Studying Computer Engineering at UdL 💻</li>
+  <li>💻 Data Engineer </li>
   <li>🌐 Interested in Computer Science and AI</li>
   <li>💡 Always brainstorming new ideas</li>
   <li>🏋️‍♂️ Passionate about fitness and the gym</li>
